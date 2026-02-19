@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59b42b90-dc47-43f0-b9f2-848c0c25c254" />## Hi there 👋
+ Hi there 👋
 
 <!--
 **trumphu09/trumphu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
