@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 *A passionate IT undergrad navigating the world of Data Science and AI.* 🚀
 
 - 🎓 **Education:** IT Student - Cohort K70 @ UET (VNU)
-- 🌱 **Currently learning:** Python (Pandas, NumPy, Matplotlib) & Exploratory Data Analysis
+- 🌱 **Currently learning:** Python (Pandas, NumPy, Matplotlib, Seaborn, still learning Meachine Learning) & Exploratory Data Analysis
 - 🎯 **2026 Goals:** Deep dive into Machine Learning & conquer computer-delivered IELTS (6.0 - 6.5 target)
 - ⚡ **Focus:** Bridging foundational Math (Linear Algebra, Calculus) with real-world Python code.
 
